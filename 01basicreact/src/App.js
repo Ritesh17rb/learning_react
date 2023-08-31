@@ -1,11 +1,11 @@
 import React from 'react'
-
+import Coffee from './Coffee'
 function App() {
   return (
-    <div>
-      <h1>Hello Ritesh</h1>
+    <>
+      <Coffee />
 
-    </div>
+    </>
   )
 }
 

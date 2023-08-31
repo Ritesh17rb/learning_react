@@ -1,0 +1,30 @@
+package json.lock is like package.
+json bas isme depenedencies lock ho jati hai,
+matlab ye isi version pe chalega
+
+Manifest.json Moble devices
+me kaam aata hai to 
+see meta tags of the websites
+
+robots.txt is for search engine
+
+index.html->single page application
+
+->Index.js is the entry point of 
+a react application
+
+->React makes it's own DOM
+which we call Virtual DOM
+which then compares with Main DOM to see,what the
+changes have occurred
+->Virtual DOM ->Main DOM
+
+StrictMode->for development
+Safe StrictMode
+
+
+vite->.jsx
+
+react->if returning html.jsx
+only javascript-> .js
+both used
